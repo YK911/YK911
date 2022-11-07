@@ -6,7 +6,7 @@
   <img src="./assets/pixel_art.gif" width="300"/>
 </div>
 
-<h2 align="center">Hi there 👋, I'm <span style="font-weight: 700; color: #ff0080; text-decoration: underline;">__Yaroslav!__</span></h2>
+<h2 align="center">Hi there 👋, I'm <span style="font-weight: 700; color: #ff0080; text-decoration: underline;">Yaroslav!</span></h2>
 
 <p align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</p>
 <div align="center" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 40px; ">
