@@ -8,8 +8,8 @@
 
 <h2 align="center">Hi there 👋, I'm <span style="color: #ff0080;">Yaroslav!</span></h2>
 
-<p align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</p>
-<div align="center" style="margin-bottom: 40px; ">
+<h3 align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</h3>
+<div align="center" style="margin-bottom: 40px;">
   <code>
     <img src="./assets/bash-logo.svg" alt="bash" width="40" height="40"/>
   </code>
