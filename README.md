@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=YK911&theme=dark&show_icons=true&count_private=true)
+
 <!--
 **YK911/YK911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
