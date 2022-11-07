@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=26&pause=2000&color=FF0080&center=true&width=1000&lines=Front-end+web+and+app+developer" />
 </div>
 
-<div align="center" style="width: 480px; margin: 0 auto; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
+<div align="center" style="width: 480px; padding: 20px 0; background-image: radial-gradient(#ff0080 4px, transparent 6px); background-size: 18px 18px; background-position: center;">
   <img src="./assets/pixel_art.gif" width="300"/>
 </div>
 
@@ -12,28 +12,28 @@
 <div align="center" style="margin-bottom: 40px; ">
   <code>
     <img src="./assets/bash-logo.svg" alt="bash" width="40" height="40"/>
-    </code>
+  </code>
   <code>
     <img src="./assets/git-logo.svg" alt="git" width="40" height="40"/>
     </code>
   <code>
     <img src="./assets/html5-logo.svg" alt="html5" width="40" height="40"/>
-    </code>
+  </code>
   <code>
     <img src="./assets/css3-logo.svg" alt="css3" width="40" height="40"/>
-    </code>
+  </code>
   <code>
-    <img src="./assets/js-logo.png" alt="javascript" width="40" height="40" />
-    </code>
+    <img src="./assets/js-logo.png" alt="javascript" width="40" height="40"/>
+  </code>
   <code>
-    <img src="./assets/react-icon.svg" alt="vscode" width="40" height="40" />
-    </code>
+    <img src="./assets/react-icon.svg" alt="vscode" width="40" height="40"/>
+  </code>
   <code>
-    <img src="./assets/vscode-logo.png" alt="vscode" width="40" height="40" />
-    </code>
+    <img src="./assets/vscode-logo.png" alt="vscode" width="40" height="40"/>
+  </code>
   <code>
-    <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40" />
-    </code>
+    <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
+  </code>
 </div>
 <p></p>
 <div align="center" style="padding: 20px 0;">
