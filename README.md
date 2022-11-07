@@ -1,19 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=26&pause=2000&color=FF0080&center=true&width=1000&lines=Front-end+web+and+app+developer)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="./assets/play.gif" width="200"/>
+  <img src="./assets/pixel_art.gif" width="300"/>
 </div>
 
 <h2 align="center">Hi there 👋, I'm Yaroslav!</h2>
 
 <p align="center">Languages and Tools:</p>
 <div align="center">
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png" alt="javascript" height="40" ></code>
-  <code><img src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png" alt="vscode" height="40" ></code>
+  <code><img src="./assets/bash-logo.svg" alt="bash" width="40" height="40"/></code>
+  <code><img src="./assets/git-logo.svg" alt="git" width="40" height="40"/></code>
+  <code><img src="./assets/html5-logo.svg" alt="html5" width="40" height="40"/></code>
+  <code><img src="./assets/css3-logo.svg" alt="css3" width="40" height="40"/></code>
+  <code><img src="./assets/js-logo.png" alt="javascript" width="40" height="40" ></code>
+  <code><img src="./assets/react-icon.svg" alt="vscode" width="40" height="40" ></code>
+  <code><img src="./assets/vscode-logo.png" alt="vscode" width="40" height="40" ></code>
+  <code><img src="./assets/figma-logo.svg" alt="figma" width="40" height="40" ></code>
 </div>
 
 <h2 align="center"></h2>
