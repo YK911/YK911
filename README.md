@@ -6,20 +6,36 @@
   <img src="./assets/pixel_art.gif" width="300"/>
 </div>
 
-<h2 align="center">Hi there 👋, I'm <span style="font-weight: 700; color: #ff0080; text-decoration: underline;">Yaroslav!</span></h2>
+<h2 align="center">Hi there 👋, I'm <span style="font-weight: 700; color: #ff0080; text-decoration: underline;">__Yaroslav!__</span></h2>
 
 <p align="center" style="padding: 20px 0; font-size: 20px; font-weight: 700; letter-spacing: 0.1em; color: #7928ca;">Languages and Tools:</p>
 <div align="center" style="display: flex; justify-content: center; gap: 15px; margin-bottom: 40px; ">
-  <code><img src="./assets/bash-logo.svg" alt="bash" width="40" height="40"/></code>
-  <code><img src="./assets/git-logo.svg" alt="git" width="40" height="40"/></code>
-  <code><img src="./assets/html5-logo.svg" alt="html5" width="40" height="40"/></code>
-  <code><img src="./assets/css3-logo.svg" alt="css3" width="40" height="40"/></code>
-  <code><img src="./assets/js-logo.png" alt="javascript" width="40" height="40" ></code>
-  <code><img src="./assets/react-icon.svg" alt="vscode" width="40" height="40" ></code>
-  <code><img src="./assets/vscode-logo.png" alt="vscode" width="40" height="40" ></code>
-  <code><img src="./assets/figma-logo.svg" alt="figma" width="40" height="40" ></code>
+  <code>
+    <img src="./assets/bash-logo.svg" alt="bash" width="40" height="40"/>
+    </code>
+  <code>
+    <img src="./assets/git-logo.svg" alt="git" width="40" height="40"/>
+    </code>
+  <code>
+    <img src="./assets/html5-logo.svg" alt="html5" width="40" height="40"/>
+    </code>
+  <code>
+    <img src="./assets/css3-logo.svg" alt="css3" width="40" height="40"/>
+    </code>
+  <code>
+    <img src="./assets/js-logo.png" alt="javascript" width="40" height="40" >
+    </code>
+  <code>
+    <img src="./assets/react-icon.svg" alt="vscode" width="40" height="40" >
+    </code>
+  <code>
+    <img src="./assets/vscode-logo.png" alt="vscode" width="40" height="40" >
+    </code>
+  <code>
+    <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40" >
+    </code>
 </div>
-
+* * *
 <div align="center" style="padding: 20px 0;">
   <img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api?username=YK911&title_color=ffffff&text_color=ffffff&bg_color=310deg,7928ca,ff0080&show_icons=true&icon_color=ff0080&count_private=true&hide_border=true&custom_title=YK911" />
 </div>
