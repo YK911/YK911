@@ -20,11 +20,12 @@
     <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
 </div>
 <p></p>
+
+
+<!--
 <div align="center" style="padding: 20px 0;">
   <img style="height: auto; width: 60%;" src="https://github-readme-stats.vercel.app/api?username=YK911&title_color=ffffff&text_color=ffffff&bg_color=310deg,7928ca,ff0080&show_icons=true&icon_color=ff0080&count_private=true&hide_border=true&custom_title=YK911" />
 </div>
-
-<!--
 **YK911/YK911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
